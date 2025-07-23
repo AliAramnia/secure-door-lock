@@ -44,3 +44,5 @@ It simulates real-world access control via hardware logic, cryptography, and dig
 📬 For questions or collaborations, feel free to reach out!
 📩 Contact: Aliaramniaa@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/aliaramnia](https://www.linkedin.com/in/aliaramnia)
+> ⚠️ This repository is for academic use only. Redistribution or modification is not permitted without explicit permission.
+
