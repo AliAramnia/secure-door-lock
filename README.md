@@ -40,3 +40,7 @@ It simulates real-world access control via hardware logic, cryptography, and dig
 
 ## 📂 Repository Structure
 
+
+📬 For questions or collaborations, feel free to reach out!
+📩 Contact: Aliaramniaa@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/aliaramnia](https://www.linkedin.com/in/aliaramnia)
